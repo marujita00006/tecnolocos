@@ -4,3 +4,12 @@ Que voy a hacer
 - Otro archivo
 Problemas
 - Nunguno
+
+
+Jesús:
+¿Qué hice hoy?
+- Edité el archivo
+¿Qué voy a hacer?
+- Estudiar Git y GitHub
+Problemas:
+- Ninguno
